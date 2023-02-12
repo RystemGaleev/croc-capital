@@ -1,0 +1,27 @@
+.item {
+  width: 200px;
+}
+
+.block {
+  display: flex;
+  align-items: center;
+}
+
+.num,
+span {
+  color: #5e84d2;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 32px;
+  margin-bottom: 10px;
+}
+
+.text {
+  color: #b1b1b1;
+  font-family: "Raleway";
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  max-width: 173px;
+  word-break: break-word;
+}

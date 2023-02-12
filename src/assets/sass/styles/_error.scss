@@ -1,0 +1,23 @@
+.error__page {
+  height: 45vh;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  color: var(--white-color);
+  &-title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 500;
+  }
+  &-descr {
+    font-size: 20px;
+    font-weight: 400;
+  }
+  &-error {
+    font-size: 100px;
+    font-weight: 400;
+  }
+}

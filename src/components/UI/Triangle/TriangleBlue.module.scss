@@ -1,0 +1,24 @@
+.triangleBlue {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    filter: blur(6px);
+    transform: rotate(-40deg);
+    animation: triangle 12s infinite ease-in;
+    z-index: 1;
+    pointer-events: none;
+}
+
+@keyframes triangle {
+    from {
+        transform: translateY(-140px);
+    }
+
+    50% {
+        transform: translateY(150px) rotate(-90deg);
+    }
+
+    to {
+        transform: translateY(-140px);
+    }
+}

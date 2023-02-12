@@ -1,0 +1,276 @@
+{
+  "counter": [
+    {
+      "number": "50",
+      "label": "closed fundraising",
+      "prefix": "+"
+    },
+    {
+      "number": "20",
+      "label": "investment deal in average",
+      "prefix": "$M"
+    },
+    {
+      "number": "100",
+      "label": "coverage of articles and videos",
+      "prefix": "M+"
+    },
+    {
+      "number": "20",
+      "label": "professionals in team",
+      "prefix": "+"
+    },
+    {
+      "number": "2",
+      "label": "months from fundraising to token launch in average",
+      "prefix": ""
+    },
+    {
+      "number": "3",
+      "label": "audience at our kols",
+      "prefix": "M+"
+    },
+    {
+      "number": "12",
+      "label": "fund size",
+      "prefix": "$M+"
+    },
+    {
+      "number": "200",
+      "label": "DP per mount",
+      "prefix": "+"
+    },
+    {
+      "number": "100",
+      "label": "partners",
+      "prefix": "+"
+    },
+    {
+      "number": "30",
+      "label": "Project were supported with marketing and listing",
+      "prefix": "+"
+    }
+  ],
+  "cases": [
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-1.svg",
+      "title": "Cherry",
+      "descr": "Created a strong media presence and raised $1.1 million during a private round"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-2.svg",
+      "title": "AVOCADO GUILD",
+      "descr": "15k+ unique visitors to the web with publications on Nasdaq, Cointelegraph and etc."
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-3.svg",
+      "title": "AIMEDIS",
+      "descr": "Launch on 6 launchpads, 2 exchanges, where we raised $800k on IDO and $500k on the private round."
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-4.svg",
+      "title": "Wolves of Wall Street",
+      "descr": "Reached more than 1 million target users in 2 weeks via KOLS"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-5.svg",
+      "title": "AVOCADO DAO",
+      "descr": "Created a strong media presence and raised $2.1 million during a private round"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-6.svg",
+      "title": "DEXTOOLS ",
+      "descr": "$0,01 USD per impression on Twitter and 25k+ website visit"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-7.svg",
+      "title": "DRAGONWAR",
+      "descr": "Community moderation in 12 languages with an average response time of 2 minutes"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-8.svg",
+      "title": "Rikkei Finance",
+      "descr": "+450% activity and average response time of about 2 minutes in Discord"
+    },
+    {
+      "image": "https://croc-capital.com/wp-content/themes/crocapital/images/dist/usecases-9.svg",
+      "title": "Paycer",
+      "descr": "Attracted $2,5m on the private round. Launch on 3 launchpads and 1 Mexc exchange."
+    }
+  ],
+  "supportData": [
+    {
+      "title": "Marketing and Influencing",
+      "num": "01",
+      "descr": [
+        "We provide Community Management, SMM, Paid Traffic, PR, KOLs.",
+        "We will increase your community, attract investors and partners.",
+        "We provide strong support from the involved KOLs to increase the initial outreach of your project. Our KOL has a global audience in Asia, Europe, North and South America."
+      ]
+    },
+    {
+      "title": "Fundraising and Partnerships",
+      "num": "02",
+      "descr": [
+        "We invest our own funds in projects, and also help to attract them through our 40+ venture capitalists"
+      ]
+    },
+    {
+      "title": "Development and Audit",
+      "num": "03",
+      "descr": [
+        "We will introduce you to audit companies and help you pass their accreditation",
+        "We help you attract strong technical specialists and developers to your team",
+        "Our R&D team is dedicated to help release your product quickly under high standards of quality and security"
+      ]
+    },
+    {
+      "title": "Token Launch and listing",
+      "num": "04",
+      "descr": [
+        "We will introduce you to 30+ launchpads, 10+ exchanges and 70+ partners to launch the best product."
+      ]
+    }
+  ],
+  "socialCards": [
+    {
+      "id": 1,
+      "platform": "twitter",
+      "social": " @MGER",
+      "socialOther": " @Croccapital",
+      "text": "Official account"
+    },
+    {
+      "id": 2,
+      "platform": "discord",
+      "social": "@MGER",
+      "socialOther": " @Croccapital",
+      "text": "Official account"
+    },
+    {
+      "id": 3,
+      "platform": "youtube",
+      "social": "@MGER",
+      "socialOther": " @Croccapital",
+      "text": "Official account"
+    },
+    {
+      "id": 4,
+      "platform": "telegram",
+      "social": "@MGER",
+      "socialOther": " @Croccapital",
+      "text": "Official account"
+    }
+  ],
+  "partners": [
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/1.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/2.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/3.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/4.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/5.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/6.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/7.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/8.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/9.png'",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/10.png",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/11.png",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/12.png",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/13.png",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/14.png",
+
+    "https://croc-capital.com/wp-content/themes/crocapital/images/logos/15.png"
+  ],
+  "crocs": [
+    {
+      "img": "https://i.postimg.cc/25DvcJtP/croc1.png",
+      "title": "Crypto Ventures",
+      "descr": "Often, two minds are greater than one. That is true in both personal life and in business. Any business that hasn`t formally filed as a corporate entity (such as a corporation or limited liability company) and that has two or more individuals working together is a common law partnership."
+    },
+    {
+      "img": "https://i.postimg.cc/SQGhJtCD/croc4.png",
+      "title": "Angel Investments",
+      "descr": "Often, two minds are greater than one. That is true in both personal life and in business. Any business that hasn`t formally filed as a corporate entity (such as a corporation or limited liability company) and that has two or more individuals working together is a common law partnership. "
+    },
+
+    {
+      "img": "https://i.postimg.cc/ZRfdqqqS/croc2.png",
+      "title": "Croc Pad",
+      "descr": "Often, two minds are greater than one. That is true in both personal life and in business. Any business that hasn`t formally filed as a corporate entity (such as a corporation or limited liability company) and that has two or more individuals working together is a common law partnership. "
+    },
+    {
+      "img": "https://i.postimg.cc/XqxSmp4T/croc3.png",
+      "title": "Stock Analytics Software",
+      "descr": "Often, two minds are greater than one. That is true in both personal life and in business. Any business that hasn`t formally filed as a corporate entity (such as a corporation or limited liability company) and that has two or more individuals working together is a common law partnership.  "
+    }
+  ],
+
+  "team": [
+    {
+      "image": "https://i.postimg.cc/HL9MfzDj/croc4.png",
+      "name": "Anton",
+      "id": "1",
+      "position": "Business Developer, Startup Scout"
+    },
+    {
+      "image": "https://i.postimg.cc/fyqK7zz7/man2.png",
+      "name": "Rustam",
+      "id": "2",
+      "position": "Lead Fullstack Developer"
+    },
+    {
+      "image": "https://i.postimg.cc/hPhMDds2/man3.png",
+      "name": "Sergey",
+      "id": "3",
+      "position": "Lead Fullstack Developer"
+    },
+    {
+      "image": "https://i.postimg.cc/k4cw4NLp/man4.png",
+      "name": "Antonio",
+      "id": "4",
+      "position": "Analyst and Portfolio development"
+    },
+    {
+      "image": "https://i.postimg.cc/bYm3fTxG/man5.png",
+      "name": "Jon",
+      "id": "5",
+      "position": "Chief financial officer"
+    },
+    {
+      "image": "https://i.postimg.cc/8CLZ8g4D/man6.png",
+      "name": "Alexey",
+      "id": "6",
+      "position": "PR & Marketing Manager"
+    },
+    {
+      "image": "https://i.postimg.cc/FRmDNCCS/man7.png",
+      "name": "Vladislav",
+      "id": "7",
+      "position": "Head of Analytic Department"
+    },
+    {
+      "image": "https://i.postimg.cc/zGsxPGn0/man8.png",
+      "name": "Ahmad",
+      "id": "8",
+      "position": "Chief Technology Officer"
+    },
+    {
+      "image": "https://i.postimg.cc/GhNKHmSd/man9.png",
+      "name": "Nazar",
+      "id": "9",
+      "position": "CEO & Investment Officer"
+    }
+  ]
+}

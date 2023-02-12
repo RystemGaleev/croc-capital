@@ -1,0 +1,23 @@
+.trianglePurple {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    filter: blur(6px);
+    animation: triangle 12s infinite ease-in-out;
+    z-index: 1;
+    pointer-events: none;
+}
+
+@keyframes triangle {
+    from {
+        transform: translateX(-140px);
+    }
+
+    50% {
+        transform: translateX(140px) rotate(-90deg);
+    }
+
+    to {
+        transform: translateX(-140px);
+    }
+}

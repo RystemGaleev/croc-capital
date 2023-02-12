@@ -1,0 +1,12 @@
+@import "../styles/mixin.scss";
+.labs {
+  margin-top: 60px;
+
+  &__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 200px;
+    flex-direction: column;
+    margin: 120px 0;
+  }
+}

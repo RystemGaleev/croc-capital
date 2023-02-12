@@ -1,0 +1,31 @@
+@import "../styles/mixin.scss";
+
+.cooperation {
+  margin-top: 100px;
+
+  &__block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  &__wrapper {
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+
+  &__descr {
+    font-family: Raleway;
+    margin-top: 80px;
+    max-width: 900px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+  }
+}

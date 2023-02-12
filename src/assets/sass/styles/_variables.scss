@@ -1,0 +1,34 @@
+@import "../styles/mixin.scss";
+
+.title {
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 110%;
+  color: #fff;
+  position: relative;
+  z-index: 100;
+
+  &__fz36 {
+    font-size: 36px;
+
+    &::before {
+      @include blur;
+    }
+  }
+
+  &__fz30 {
+    font-size: 30px;
+  }
+
+  &__fz24 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    max-width: 250px;
+    background: linear-gradient(278.08deg, #802b6a 14.98%, #5e84d2 82.07%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+}

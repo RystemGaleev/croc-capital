@@ -1,0 +1,115 @@
+.btn {
+  position: relative;
+  font-family: "RoadRadio";
+
+  font-size: 20px;
+  font-weight: 500;
+  padding: 0 20px;
+  border-radius: var(--rad);
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  &:after {
+    content: "";
+    display: block;
+    position: absolute;
+    border-radius: var(--rad);
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all 0.5s;
+    box-shadow: 0 0 10px 40px var(--accent-color);
+  }
+  &:active:after {
+    box-shadow: 0 0 0 0 var(--accent-color);
+    position: absolute;
+    border-radius: var(--rad);
+    left: 0;
+    top: 0;
+    opacity: 1;
+    transition: 0s;
+  }
+  &:disabled {
+    background-color: grey;
+    pointer-events: none;
+    border: none;
+  }
+
+  &-sm {
+    height: 44px;
+    min-width: 160px;
+    max-width: 200px;
+  }
+  &-md {
+    height: 50px;
+    min-width: 180px;
+    max-width: 220px;
+  }
+  &-lg {
+    height: 56px;
+    min-width: 220px;
+    max-width: 260px;
+  }
+
+  &-outlined {
+    border: 1px solid var(--accent-color);
+    background-color: transparent;
+    color: var(--text-color);
+    &:hover {
+      background-color: var(--accent-color);
+      color: var(--detail-color);
+      box-shadow: 4px 4px 10px 2px var(--accent-color);
+    }
+  }
+
+  &-primary {
+    background-color: var(--pink-color);
+    color: var(--white-color);
+
+    &:hover {
+      background-color: var(--accent-color);
+      box-shadow: 4px 4px 10px 2px var(--accent-color);
+    }
+    &:active {
+      background-color: var(--accent-color);
+      background-position: 10px 20px;
+    }
+  }
+}
+
+// .classicBtn {
+//   width: 210px;
+//   height: 50px;
+//   padding: 5px 10px;
+//   filter: drop-shadow(0px 0px 16px #e741bc) drop-shadow(0px 0px 14px #ff00a8);
+//   font-weight: 700;
+//   font-size: 16px;
+//   line-height: 110%;
+//   color: #fff;
+//   background: transparent;
+//   border: 2px solid transparent;
+//   -moz-border-image: linear-gradient(180deg, #e741bc 0%, #3c7eff 100%);
+//   -webkit-border-image: linear-gradient(180deg, #e741bc 0%, #3c7eff 100%);
+//   border-image: linear-gradient(180deg, #e741bc 0%, #3c7eff 100%);
+//   border-image-slice: 1;
+//   cursor: pointer;
+//   transition: 0.4s all ease-in-out;
+
+//   &:hover {
+//       background: linear-gradient(40deg, #e741bc 52%, #3c7eff 52%);
+//       background-position: -206px;
+//   }
+
+//   &:disabled {
+//       pointer-events: none;
+//       border: 2px solid #999999;
+//       background-color: #cccccc;
+//       color: #666666;
+//       filter: none;
+
+//   }
+
+// }

@@ -1,0 +1,47 @@
+@import "./styles/variables";
+@import "./styles/mixin.scss";
+@import "./styles/fonts.scss";
+
+@import "./styles/about.scss";
+@import "./styles/cooperation.scss";
+@import "./styles/labs.scss";
+@import "./styles/home.scss";
+@import "./styles/error.scss";
+
+:root {
+  --black-color: #181a1d;
+  --white-color: #fffdfd;
+  --accent-color: #5e84d2;
+
+  --blue-color: #3c7eff;
+  --pink-color: #e741bc;
+
+  --grey-opacity-color: rgba(255, 255, 255, 0.5);
+  --red-opacity-color: rgba(210, 49, 49, 0.8);
+  --black-opacity-color: rgb(24, 26, 29, 0.4);
+
+  --rad: 6px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+}
+
+body {
+  background-color: #020202;
+  color: #fff;
+  font-family: "Raleway";
+  font-family: "RoadRadio";
+}
+
+.container {
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+  display: block;
+}

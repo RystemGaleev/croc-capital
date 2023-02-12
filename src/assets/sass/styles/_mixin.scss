@@ -1,0 +1,12 @@
+@mixin blur {
+  position: absolute;
+  content: "";
+  width: 160px;
+  height: 160px;
+  left: 0px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: #5e84d2;
+  background: linear-gradient(278.08deg, #eb57c3 50%, #5e84d2 50%);
+  filter: blur(120px);
+}
